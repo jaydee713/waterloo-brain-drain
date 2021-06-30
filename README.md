@@ -1,2 +1,2 @@
-# Waterloo Brain Drain
-A guide to co-ops in different places
+# 🚰 Waterloo Brain Drain
+Guides for co-ops in different places
