@@ -1,2 +1,2 @@
-# waterloo-brain-drain
-A guide to interning in the Bay Area
+# Waterloo Brain Drain
+A guide to co-ops in different places
